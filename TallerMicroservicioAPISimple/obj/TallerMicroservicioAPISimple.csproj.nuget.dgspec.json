@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/camilomarin/Documents/Repositorios/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple.csproj": {}
+  },
+  "projects": {
+    "/Users/camilomarin/Documents/Repositorios/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/camilomarin/Documents/Repositorios/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple.csproj",
+        "projectName": "TallerMicroservicioAPISimple",
+        "projectPath": "/Users/camilomarin/Documents/Repositorios/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple.csproj",
+        "packagesPath": "/Users/camilomarin/.nuget/packages/",
+        "outputPath": "/Users/camilomarin/Documents/Repositorios/TallerMicroservicioAPISimple/TallerMicroservicioAPISimple/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/camilomarin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/projects/16960327/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
